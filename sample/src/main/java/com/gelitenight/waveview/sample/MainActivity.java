@@ -8,6 +8,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.SeekBar;
 
+import com.gelitenight.waveview.library.WaveHelper;
 import com.gelitenight.waveview.library.WaveView;
 
 public class MainActivity extends AppCompatActivity {

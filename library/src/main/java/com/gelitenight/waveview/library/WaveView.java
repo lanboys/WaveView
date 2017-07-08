@@ -26,7 +26,7 @@ import android.graphics.Paint.Style;
 import android.graphics.Shader;
 import android.util.AttributeSet;
 import android.view.View;
-
+// http://www.jianshu.com/p/e711e22e053e
 public class WaveView extends View {
     /**
      * +------------------------+
